@@ -1,4 +1,4 @@
-name: 编译内核 6.1.X-Android14-LTS
+name: build-kernel-a14-6-1
 
 permissions:
   contents: write  # Allow writing to repository contents (for pushing tags)
