@@ -1,4 +1,4 @@
-name: 构建并发布内核
+name: build-kernel-release
 
 permissions:
   contents: write  # Allow writing to repository contents (for pushing tags)
